@@ -3,7 +3,7 @@ import Markdown from 'react-markdown'
 import { TTSSession } from './tts-cartesia.js'
 import { stripMarkdown } from './stripMarkdown.js'
 
-const TENANT_ID = '00000000-0000-0000-0000-000000000201'
+const TENANT_ID = '00000000-0000-0000-0000-000000000001'
 const USER_ID = '00000000-0000-0000-0000-000000000002'
 
 function MicIcon({ active }) {
